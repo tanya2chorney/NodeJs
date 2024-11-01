@@ -1,0 +1,15 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "This is Node.js homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Tanya",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
